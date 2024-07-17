@@ -1,4 +1,4 @@
-<!--
+
 # About me
 
 ### 🔭 I’m currently working on using python to create data visualisations.
